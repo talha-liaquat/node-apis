@@ -1,0 +1,29 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talha-liaquat/node-apis.git"
+  },
+  "keywords": [
+    "RESTful"
+  ],
+  "author": "Talha Liaquat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talha-liaquat/node-apis/issues"
+  },
+  "homepage": "https://github.com/talha-liaquat/node-apis#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
